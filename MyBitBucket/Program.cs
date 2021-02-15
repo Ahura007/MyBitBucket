@@ -9,6 +9,8 @@ namespace MyBitBucket
             Console.WriteLine("Main");
             Console.WriteLine("AAAAAAAAA");
             Console.WriteLine("a1");
+            Console.WriteLine("a1");
+            Console.WriteLine("a1");
  
         }
     }
