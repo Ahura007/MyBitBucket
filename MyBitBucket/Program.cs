@@ -7,7 +7,10 @@ namespace MyBitBucket
         static void Main(string[] args)
         {
             Console.WriteLine("Main");
-            Console.WriteLine("AAAAAAAAAAAAAAA");
+            Console.WriteLine("AAAAAAAAA");
+            Console.WriteLine("a1");
+            Console.WriteLine("a1");
+            Console.WriteLine("a1");
  
         }
     }
