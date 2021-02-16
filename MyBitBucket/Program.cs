@@ -13,8 +13,6 @@ namespace MyBitBucket
             Console.WriteLine("A4");
             Console.WriteLine("A4");
             Console.WriteLine("v1.1");
-            Console.WriteLine("v1.2");
-            Console.WriteLine("v1.3");
  
         }
     }
