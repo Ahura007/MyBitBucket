@@ -11,6 +11,7 @@ namespace MyBitBucket
             Console.WriteLine("A2");
             Console.WriteLine("A3");
             Console.WriteLine("A4");
+            Console.WriteLine("A4");
  
         }
     }
